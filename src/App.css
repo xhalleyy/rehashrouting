@@ -24,6 +24,15 @@
   color: white;
 }
 
+/* .bg{
+  background: url(./assets/bg-gif.gif) center center no-repeat cover;
+} */
+
+.bg{
+  background-image: url(./assets/bg-gif.gif);
+  min-height: 92vh;
+}
+
 .App-link {
   color: #61dafb;
 }
